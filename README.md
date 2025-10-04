@@ -4,14 +4,14 @@
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Project-blue)](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](#license)
 
-This is my implementation of the **Request Header Parser Microservice** for the freeCodeCamp Back End Development and APIs certification. It’s based on the official [boilerplate project](https://github.com/freeCodeCamp/boilerplate-project-headerparser).
+This is my implementation of the **Request Header Parser Microservice** for the freeCodeCamp Back End Development and APIs certification. It's based on the official [boilerplate project](https://github.com/freeCodeCamp/boilerplate-project-headerparser).
 
 ---
 
 ## 🚀 Live Demo
 
 You can try the live project here:  
-👉 **[Live App on Replit](https://015bc6d1-8c74-4450-addc-8714c8318d8c-00-1f706x7gdlsh8.janeway.replit.dev/)**  
+👉 **[Live App on Replit](https://015bc6d1-8c74-4450-addc-8714c8318d8c-00-1f706x7gdlsh8.janeway.replit.dev/)**
 
 ---
 
@@ -21,16 +21,14 @@ You can try the live project here:
    ```bash
    git clone https://github.com/Exstee/request-header-parser-microservice.git
    cd request-header-parser-microservice
-````
+   ```
 
 2. Install dependencies:
-
    ```bash
    npm install
    ```
 
 3. Start the server:
-
    ```bash
    npm start
    ```
@@ -45,9 +43,9 @@ You can try the live project here:
 
 Returns a JSON object with:
 
-* `ipaddress` — your IP address
-* `language` — the `Accept-Language` header
-* `software` — the `User-Agent` header
+- `ipaddress` — your IP address
+- `language` — the `Accept-Language` header
+- `software` — the `User-Agent` header
 
 #### Example Request
 
@@ -69,19 +67,16 @@ GET https://your-app-url/api/whoami
 
 ## 🧩 Project Notes
 
-* This microservice is built to pass the freeCodeCamp test suite.
-* Middleware used:
-
-  * `dotenv` for environment configuration
-  * `express` for server setup
-  * `cors` for cross-origin requests
-* Static files are served from `/public`.
+- This microservice is built to pass the freeCodeCamp test suite.
+- Middleware used:
+  - `dotenv` for environment configuration
+  - `express` for server setup
+  - `cors` for cross-origin requests
+- Static files are served from `/public`.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**.  
 Built as part of the [freeCodeCamp Back End Development and APIs curriculum](https://www.freecodecamp.org/learn/).
-
-`````
