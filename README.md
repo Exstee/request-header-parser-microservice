@@ -85,5 +85,3 @@ This project is licensed under the **MIT License**.
 Built as part of the [freeCodeCamp Back End Development and APIs curriculum](https://www.freecodecamp.org/learn/).
 
 `````
-
----
