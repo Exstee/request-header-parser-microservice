@@ -8,14 +8,14 @@ This is my implementation of the **Request Header Parser Microservice** for the 
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 You can try the live project here:  
-👉 **[Live App on Replit](https://015bc6d1-8c74-4450-addc-8714c8318d8c-00-1f706x7gdlsh8.janeway.replit.dev/)**
+ **[Live App on Replit](https://015bc6d1-8c74-4450-addc-8714c8318d8c-00-1f706x7gdlsh8.janeway.replit.dev/)**
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository:
    ```bash
@@ -37,7 +37,7 @@ You can try the live project here:
 
 ---
 
-## 📡 API Endpoint
+##  API Endpoint
 
 ### `GET /api/whoami`
 
@@ -65,7 +65,7 @@ GET https://your-app-url/api/whoami
 
 ---
 
-## 🧩 Project Notes
+##  Project Notes
 
 - This microservice is built to pass the freeCodeCamp test suite.
 - Middleware used:
@@ -76,7 +76,7 @@ GET https://your-app-url/api/whoami
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License**.  
 Built as part of the [freeCodeCamp Back End Development and APIs curriculum](https://www.freecodecamp.org/learn/).
