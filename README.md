@@ -6,15 +6,6 @@
 
 This is my implementation of the **Request Header Parser Microservice** for the freeCodeCamp Back End Development and APIs certification. It's based on the official [boilerplate project](https://github.com/freeCodeCamp/boilerplate-project-headerparser).
 
----
-
-##  Live Demo
-
-You can try the live project here:  
- **[Live App on Replit](https://015bc6d1-8c74-4450-addc-8714c8318d8c-00-1f706x7gdlsh8.janeway.replit.dev/)**
-
----
-
 ##  Installation & Setup
 
 1. Clone the repository:
